@@ -28,3 +28,11 @@
   margin-top: 5em;
   margin-bottom: 2em;
 }
+
+.testimonial-img-height img {
+  height: 30px;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0;
+}
